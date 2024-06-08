@@ -48,7 +48,7 @@ const useFirebase = () => {
 
         });
         return () => unsubscribed;
-    }, [])
+    })
 
     const logout = () => {
         setIsLoading(true);
@@ -79,7 +79,7 @@ const useFirebase = () => {
     const registeruser = (mail, password) => {
         createUserWithEmailAndPassword(auth, mail, password)
             .then((result) => {
-                const user = result.user;
+                // const user = result.user;
                 verifyUserMail();
                 updateUserName();
                 setError('');

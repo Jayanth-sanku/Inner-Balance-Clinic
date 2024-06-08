@@ -22,7 +22,7 @@ const ServiceDetails = () => {
         else {
             console.log('waiting for data');
         }
-    }, [services]);
+    }, );
 
     return (
         <Box sx={{ bgcolor: '#fce4ec', color: 'primary.main', p: 2, mb: 2, textAlign: "center" }}>

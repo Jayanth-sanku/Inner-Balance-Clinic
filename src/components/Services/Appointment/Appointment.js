@@ -1,4 +1,4 @@
-import { DateTimePicker, LocalizationProvider, MobileDateTimePicker } from '@mui/lab';
+import { LocalizationProvider, MobileDateTimePicker } from '@mui/lab';
 import { Box, Button, Container, FormControl, InputLabel, MenuItem, Select, Stack, TextField, Typography } from '@mui/material';
 import React from 'react';
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns';
@@ -10,7 +10,7 @@ import useAuth from '../../../Hooks/useAuth';
 const Appointment = () => {
     const { user } = useAuth();
 
-    const [clearedDate, setClearedDate] = React.useState(null);
+   
     const [value, setValue] = React.useState(new Date());
 
     // doctor name function
