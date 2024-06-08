@@ -1,0 +1,65 @@
+{
+	"services": [
+		{
+			"id": 1,
+			"class": "",
+			"treatment": "Mental Clarity",
+			"price": 15000,
+			"description": "Mental clarity refers to a state of mind characterized by clear, focused, and coherent thinking. It involves the ability to process information quickly and efficiently, make sound decisions, and maintain a sharp and alert mind.",
+
+			"service_img": "https://i.ibb.co/rG0TSwX/01.jpg"
+		},
+		{
+			"id": 2,
+			"class": "animation",
+			"treatment": "Psychological Balance",
+			"price": 25000,
+			"description": "Psychological balance refers to a state of emotional and mental stability where an individual can effectively manage their thoughts, feelings, and behaviors.",
+	
+			"service_img": "https://i.ibb.co/Bn2GG0N/06.jpg"
+		},
+		{
+			"id": 3,
+			"class": "",
+			"treatment": "Emotional Resilience",
+			"price": 3000,
+			"description": "Emotional resilience refers to the capacity to adapt to and recover from stressful, challenging, or adverse situations",
+		
+			"service_img": "https://i.ibb.co/CK7Y2DD/03.jpg"
+		},
+		{
+			"id": 4,
+			"class": "",
+			"treatment": "Inner Peace",
+			"price": 100,
+			"description": "Inner peace refers to a state of mental and emotional calmness, with no anxiety, stress, or worry. It is a deep-seated sense of harmony and contentment within oneself, regardless of external circumstances.",
+			"service_img": "https://i.ibb.co/3FS3B8h/08.jpg"
+		},
+		{
+			"id": 5,
+			"class": "animation",
+			"treatment": "Cognitive Well-being",
+			"price": 9000,
+			"description": "Cognitive well-being refers to the optimal functioning of cognitive processes, including thinking, memory, problem-solving, and decision-making.",
+
+			"service_img": "https://i.ibb.co/q9SM3XT/10.jpg"
+		},
+		{
+			"id": 6,
+			"class": "",
+			"treatment": "Psychological Empowerment",
+			"price": 1800,
+			"description": "Psychological empowerment refers to the process through which individuals gain control over their lives, enhance their self-efficacy, and feel more capable and confident in making decisions.",
+
+			"service_img": "https://i.ibb.co/dDsVnnZ/09.jpg"
+		},
+		{
+			"id": 7,
+			"class": "",
+			"treatment": "Emotional Stability",
+			"price": 0,
+			"description": "Emotional stability refers to the capacity to maintain balanced and consistent emotional responses over time, even in the face of stress, adversity, or changing circumstances.",
+			"service_img": "https://i.ibb.co/02FMz1F/02.jpg"
+		}
+	]
+}
